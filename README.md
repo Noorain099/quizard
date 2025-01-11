@@ -1,11 +1,9 @@
 <<<<<<< HEAD
 # quizard
 =======
-# quizard
 
-A new Flutter project.
+Welcome to the Quizard! This application is designed to provide a simple and interactive way to test your knowledge with a set of questions. 
 
-## Getting Started
 
 This project is a starting point for a Flutter application.
 
