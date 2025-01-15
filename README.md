@@ -10,7 +10,7 @@ Welcome to Quizard! This application allows users to test their knowledge throug
 
 - **Multiple Choice Questions**: Users can choose from multiple answers.
 - **User-Friendly Interface**: Simple and intuitive design for easy navigation.
-- **Score Tracking**: Users can see their score at the end of the quiz.
+- **Results Screen**: Displays the user's selected answers alongside the correct answers for review.
 - **Categories**: Option to choose different categories for quizzes.
 
 ## Getting Started
