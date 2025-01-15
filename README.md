@@ -1,18 +1,23 @@
-<<<<<<< HEAD
-# quizard
-=======
-
-Welcome to the Quizard! This application is designed to provide a simple and interactive way to test your knowledge with a set of questions. 
 
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+# Quizard
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Welcome to Quizard! This application allows users to test their knowledge through a series of questions across various topics. It's designed to be user-friendly and engaging, making learning fun!
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> 31b24eb (commit)
+## Features
+
+- **Multiple Choice Questions**: Users can choose from multiple answers.
+- **User-Friendly Interface**: Simple and intuitive design for easy navigation.
+- **Score Tracking**: Users can see their score at the end of the quiz.
+- **Categories**: Option to choose different categories for quizzes.
+
+## Getting Started
+
+To get a local copy up and running, follow these simple steps.
+
+### Prerequisites
+
+- Flutter SDK
+- Dart
